@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oliver F. Anderson&#39;s Data Science Portfolio</title>
+    <link>https://robertwwalker.github.io/portfolio-website2/</link>
+    <description>Recent content on Oliver F. Anderson&#39;s Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://robertwwalker.github.io/portfolio-website2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://robertwwalker.github.io/portfolio-website2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robertwwalker.github.io/portfolio-website2/</guid>
+      <description>Welcome!
+I’m Oliver F. Anderson, a Data Scientist and Health and Fitness Nerd. Get to know me better.
+Take a look around and check out some of the projects that I have been working on.
+Photo by Xue Guangjian</description>
+    </item>
+    
+  </channel>
+</rss>

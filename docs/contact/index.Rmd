@@ -1,0 +1,22 @@
+---
+title: Contact Me
+description: 'Oliver Anderson contact information'
+---
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Montserrat', sans-serif;
+    }
+  </style>
+</head>
+
+I would love for you to get in contact. You can reach me at any of these locations.
+
+LINKEDIN ICON
+
+GITHUB
+
+EMAIL
+
+NOTE: ADD A GOOD BACKGROUND PHOTO MAYBE
